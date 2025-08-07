@@ -1,9 +1,7 @@
 # house-price-prediction-analysis
 
-Of course. Here's a README.md file for your House Price Prediction project.
-
-House Price Prediction using Linear Regression 🏠
-This project implements a linear regression model to predict house prices based on various features. The primary goal is to understand and apply both simple (one feature) and multiple (many features) linear regression, evaluate the model's performance, and interpret its results.
+House Price Prediction using Linear Regression 
+🏠 This project implements a linear regression model to predict house prices based on various features. The primary goal is to understand and apply both simple (one feature) and multiple (many features) linear regression, evaluate the model's performance, and interpret its results.
 
 ## Project Workflow
 The project follows a standard machine learning workflow from data preparation to model evaluation.
